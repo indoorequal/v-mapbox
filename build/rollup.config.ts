@@ -82,5 +82,5 @@ export default {
     },
   ],
   plugins,
-  external: ['vue', 'mapbox-gl', 'map-promisified', '@vue/composition-api'],
+  external: ['vue', 'maplibre-gl', 'map-promisified', '@vue/composition-api'],
 };

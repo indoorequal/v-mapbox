@@ -6,7 +6,7 @@ import type {
   LngLatLike,
   Style,
   TransformRequestFunction,
-} from 'mapbox-gl';
+} from 'maplibre-gl';
 
 const props = {
   antialias: {

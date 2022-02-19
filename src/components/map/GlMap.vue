@@ -83,7 +83,7 @@
       this.propsIsUpdating = {};
       this.mapboxPromise = this.mapboxGl
         ? Promise.resolve(this.mapboxGl)
-        : import('mapbox-gl');
+        : import('maplibre-gl');
     },
 
     mounted() {
